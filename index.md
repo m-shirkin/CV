@@ -21,9 +21,10 @@ https://github.com/m-shirkin
 Berlin, www.think-cell.com  
 
  - Developed and maintained think-cell PowerPoint addin, a commercial product with over 20 years of history.
- - Programmed mostly in C++, used think-cell range library (https://github.com/think-cell/think-cell-library), combined with structures from STL.
+ - Coded mostly in C++, used think-cell range library (https://github.com/think-cell/think-cell-library), combined with structures from STL and occasional ATL and Objective-C.
  - Worked with Windows and MacOS system APIs, PowerPoint COM API.
  - Have been completing a wide range of tasks: fixing bugs, implementing new features, refactoring code, maintaining compatibility.
+ - Have done a little bit of reverse engeneering.
 
 <div style="display: flex; justify-content: space-between;">
   <span style="font-weight: bold;">NitrosData, LLC</span>
@@ -40,10 +41,11 @@ Moscow, nitrosdata.com
   <span>December 2019 — August 2020</span>
 </div>
 
-- Developed APIs for conducting static experiments.
-- Designed and made frontends on Qt (C++).
-- Setup local Git server.
-- Started writing Linux drivers for measurement systems.
+- Part-time job alongside studying
+- Developed APIs for conducting experiments on real plane parts.
+- Designed and made frontends for interfacing measuring devices (Qt, C++).
+- Managed local Git server.
+- Wrote drivers for a measuring hardware piece, but did not have time to accomplish much.
 
 <div style="page-break-before: always; display: flex; justify-content: space-between;">
   <span style="font-weight: bold;">National Research Centre "Kurchatov Institute"</span>
@@ -52,7 +54,7 @@ Moscow, nitrosdata.com
 
 - Research in computer modelling of rarified gases.
 - Wrote and published scientific articles (example https://iopscience.iop.org/article/10.1088/1742-6596/1560/1/012061).
-- Analysed experimental micropump systems by running computer simulations.
+- Analysed experimental micropump systems by running computer simulations on a supercomputer.
 
 <div style="display: flex; justify-content: space-between;">
   <span style="font-weight: bold;">Freelance / self-employed</span>
