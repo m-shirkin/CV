@@ -23,7 +23,7 @@ Berlin, www.think-cell.com
  - Developed and maintained think-cell PowerPoint addin, a commercial product with over 20 years of history.
  - Programmed mostly in C++, used think-cell range library (https://github.com/think-cell/think-cell-library), combined with structures from STL.
  - Worked with Windows and MacOS system APIs, PowerPoint COM API.
- - Big part of the work was to optimize and refactor existing code.
+ - Have been completing a wide range of tasks: fixing bugs, implementing new features, refactoring code, maintaining compatibility.
 
 <div style="display: flex; justify-content: space-between;">
   <span style="font-weight: bold;">NitrosData, LLC</span>
