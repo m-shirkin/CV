@@ -6,7 +6,7 @@ Berlin, Germany
 
 ### Contacts
 +49 (1575) 472-01-94  
-qaz7455@yandex.ru — preferred means of communication  
+mikhail685@gmail.com — preferred means of communication  
 https://t.me/mshirkin
 
 ### About me
