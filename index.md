@@ -64,7 +64,9 @@ Moscow, nitrosdata.com
 
 ### Skills
 C++ - advanced. Mainly with C++20 and STL, some experience with Qt and boost.
+
 Python - intermediate. Used numpy, scikit extensively for study, tensorflow for miscellaneous projects.
+
 JavaScript - intermediate. Majority of experience comes from simple HTML projects. Have experience coding in Node.js, mostly for freelance work.
 
 ### Education
