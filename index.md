@@ -1,7 +1,7 @@
 # Mikhail Shirkin
 ## Software Engineer
 
-Male, 29 years, born on 26 June 1995  
+Male, 30 years, born on 26 June 1995  
 Berlin, Germany
 
 ### Contacts
