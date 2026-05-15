@@ -36,7 +36,7 @@ Moscow, nitrosdata.com
 - Prototyped C++ web server, with asyncronous client request handler.
 - Worked on adapters for other programming languages (Python, Java).
 
-<div style="display: flex; justify-content: space-between;">
+<div style="page-break-before: always; display: flex; justify-content: space-between;">
   <span style="font-weight: bold;">The Central Aerohydrodynamic Institute <br> named after N.E. Zhukovsky (TsAGI)</span>
   <span>December 2019 — August 2020</span>
 </div>
@@ -47,7 +47,7 @@ Moscow, nitrosdata.com
 - Managed local Git server.
 - Wrote drivers for a measuring hardware piece, but did not have time to accomplish much.
 
-<div style="page-break-before: always; display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;">
   <span style="font-weight: bold;">National Research Centre "Kurchatov Institute"</span>
   <span>March 2018 — September 2019</span>
 </div>
@@ -58,6 +58,7 @@ Moscow, nitrosdata.com
 
 <div style="display: flex; justify-content: space-between;">
   <span style="font-weight: bold;">Freelance / self-employed</span>
+  <span>2018 — 2021</span>
 </div>
 
 - Developed http parsers (selenium, puppeteer), chat bots (Node.js, telegraf.js, Python), UI components (Angular, JavaScript, jQuery).
