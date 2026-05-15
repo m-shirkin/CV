@@ -21,7 +21,7 @@ https://github.com/m-shirkin
 Berlin, www.think-cell.com  
 
  - Developed and maintained think-cell PowerPoint addin, a commercial product with over 20 years of history.
- - Coded mostly in C++, used think-cell range library (https://github.com/think-cell/think-cell-library), combined with structures from STL and occasional ATL and Objective-C.
+ - Coded mostly in C++, used think-cell range library (https://github.com/think-cell/think-cell-library), combined with structures from STL and occasional ATL and Objective C.
  - Worked with Windows and MacOS system APIs, PowerPoint COM API.
  - Have been completing a wide range of tasks: fixing bugs, implementing new features, refactoring code, maintaining compatibility.
  - Have done a little bit of reverse engeneering.
